@@ -39,6 +39,9 @@ env/
 # Data (optional - comment out if you want to commit data)
 # data/*.npz
 
+# External datasets
+external_datasets/
+
 # Models (optional - comment out if you want to commit models)
 # models/*.pkl
 
