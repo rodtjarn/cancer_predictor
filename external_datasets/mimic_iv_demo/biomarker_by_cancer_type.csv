@@ -1,0 +1,101 @@
+subject_id,Age,Glucose,Lactate,LDH,CRP,cancer_type,diagnoses,has_cancer
+10014729,21,94.0,2.7,147.5,,Control,,0
+10003400,72,115.0,2.1,226.0,156.2,Other Cancer,"Malignant neoplasm of anal canal, Secondary malignant neoplasm of other digestive organs, Secondary malignant neoplasm of retroperitoneum and peritoneum",1
+10002428,80,107.5,1.6,266.5,,Control,,0
+10032725,38,169.0,2.35,657.0,31.5,Control,,0
+10027445,48,176.0,2.15,369.0,,Control,,0
+10037928,78,199.0,1.7,288.0,5.3,Head/Neck Cancer,"Malignant neoplasm of tongue, unspecified",1
+10001725,46,136.0,,,,Control,,0
+10040025,64,186.5,1.75,,113.6,Control,,0
+10008454,26,213.5,3.3,384.0,,Control,,0
+10020640,91,150.0,2.8,,,Control,,0
+10014078,60,109.5,2.0,,,Control,,0
+10007795,53,134.0,1.1,154.0,,Control,,0
+10001217,55,95.0,1.0,154.0,12.3,Control,,0
+10019172,63,110.0,2.2,147.0,,Control,,0
+10039831,57,117.0,3.75,454.0,,Control,,0
+10007928,59,106.0,1.2,413.0,,Control,,0
+10019003,65,97.0,3.1,888.0,,Hematologic Cancer,"Myelodysplastic disease, not classified, Leukemia, unspecified not having achieved remission",1
+10002930,48,88.0,2.1,285.0,,Control,,0
+10010471,89,122.0,2.15,,,Control,,0
+10027602,71,140.0,1.9,,,Control,,0
+10031757,67,92.0,1.2,1362.0,,Control,,0
+10016742,58,150.0,1.1,195.0,,Control,,0
+10039997,67,99.5,2.2,,,Control,,0
+10012853,91,99.0,1.15,,,Other Cancer,Malignant neoplasm of thyroid gland,1
+10000032,52,102.0,1.7,173.0,,Control,,0
+10031404,82,106.0,,192.0,,Control,,0
+10029291,50,177.0,1.4,322.5,,Control,,0
+10005909,40,122.0,0.9,,,Control,,0
+10039708,46,105.0,2.45,201.0,5.6000000000000005,Control,,0
+10019568,59,116.0,2.7,,,Control,,0
+10020187,63,111.0,,,,Control,,0
+10016810,66,134.0,0.9500000000000001,,,Control,,0
+10038081,63,198.0,5.4,256.0,,Control,,0
+10021312,55,98.0,1.3,185.0,,Lung Cancer,"Malignant neoplasm of unspecified part of unspecified bronchus or lung, Malignant neoplasm of left main bronchus, Malignant neoplasm of right main bronchus",1
+10006580,63,222.5,,,,Control,,0
+10010867,28,112.0,0.9,,17.9,Control,,0
+10020786,86,130.0,,219.0,,Control,,0
+10020306,74,169.0,1.9,252.0,13.5,Control,,0
+10023239,29,197.0,1.65,246.5,3.6,Control,,0
+10018328,83,130.0,0.9,,,Control,,0
+10008287,43,105.0,0.6499999999999999,,,Control,,0
+10036156,88,119.0,,,,Control,,0
+10015272,78,87.5,2.3,,,Hematologic Cancer,Multiple myeloma not having achieved remission,1
+10022281,84,83.0,,,,Control,,0
+10035631,63,122.0,1.4,230.0,75.2,Hematologic Cancer,"Other myeloid leukemia not having achieved remission, Other myeloid leukemia, in relapse, Acute myeloblastic leukemia, in relapse",1
+10024043,67,107.0,3.1,105.0,0.4,Control,,0
+10025612,82,124.5,2.8,,,Control,,0
+10003046,64,118.5,1.3,,,Control,,0
+10021666,87,141.0,,,,Control,,0
+10018423,37,108.0,2.9000000000000004,,,Control,,0
+10025463,66,133.5,1.35,,,Control,,0
+10017492,84,97.0,4.0,162.0,,Control,,0
+10004422,78,114.0,2.8,,,Control,,0
+10011398,67,115.0,3.0999999999999996,,,Control,,0
+10021938,65,96.0,1.45,196.0,,Control,,0
+10009628,58,130.0,2.7,199.0,,Control,,0
+10004457,65,110.0,1.4,176.0,1.7,Control,,0
+10015860,53,121.0,1.1,182.0,49.65,Control,,0
+10021487,43,123.0,2.7,351.0,,Control,,0
+10013049,52,125.5,1.2000000000000002,,3.7,Control,,0
+10026255,66,90.0,1.3,312.0,,Control,,0
+10023771,70,113.0,1.75,,,Control,,0
+10023117,53,102.0,1.9,377.0,,Control,,0
+10022041,64,111.5,,,,Control,,0
+10005348,76,123.5,1.2,,,Control,,0
+10009035,28,114.0,1.55,159.0,,Control,,0
+10018081,79,111.0,1.9,199.0,,Control,,0
+10038933,34,171.0,2.5,282.0,,Control,,0
+10037975,60,129.0,2.5,,,Control,,0
+10035185,70,166.5,1.8,,,Control,,0
+10014354,60,183.0,1.8,233.5,27.25,Hematologic Cancer,"Malignant neoplasm of left testis, unspecified whether descended or undescended, Chronic lymphocytic leukemia of B-cell type not having achieved remission, Malignant neoplasm of descended left testis",1
+10022880,66,115.0,,,,Control,,0
+10004720,61,128.0,1.55,311.5,,Control,,0
+10019385,44,125.0,2.1,,,Control,,0
+10029484,64,256.5,,,,Control,,0
+10037861,77,190.5,1.8,247.0,,Control,,0
+10026406,45,119.0,,,,Control,,0
+10007818,69,166.5,3.65,346.5,,Control,,0
+10020740,56,196.0,2.0,239.5,,Control,,0
+10038999,45,99.0,1.1,167.5,327.1,Control,,0
+10004235,47,131.5,2.6,486.0,,Control,,0
+10022017,59,149.5,1.4,130.0,,Control,,0
+10002495,81,251.0,2.0,481.0,,Control,,0
+10018845,91,92.0,,,,Control,,0
+10020944,72,84.0,0.8,,,Control,,0
+10016150,69,165.0,,226.0,,Control,,0
+10005866,57,105.0,1.7,220.0,,Control,,0
+10026354,34,120.0,2.7,,,Control,,0
+10019917,44,101.5,,143.5,,Control,,0
+10019777,51,125.0,1.4,677.0,,Control,,0
+10005817,66,210.0,1.95,1403.0,,Other Cancer,"Other secondary neuroendocrine tumors, Other malignant neuroendocrine tumors",1
+10009049,56,105.0,2.1,255.0,,Control,,0
+10015931,87,152.0,1.7,265.0,,Control,,0
+10006053,52,179.0,11.6,2184.0,,Control,,0
+10012552,78,119.5,1.3,205.0,,Control,,0
+10004733,51,92.0,0.8,206.0,82.39999999999999,Control,,0
+10021118,62,113.0,1.7999999999999998,166.0,,Control,,0
+10018501,83,123.5,,,,Control,,0
+10007058,48,103.5,,,2.8,Control,,0
+10038992,70,115.0,1.7,233.0,95.0,Control,,0
