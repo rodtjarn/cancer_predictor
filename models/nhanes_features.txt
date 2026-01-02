@@ -1,0 +1,7 @@
+fasting_insulin
+fasting_glucose
+LDH
+CRP
+HOMA_IR
+age
+gender
