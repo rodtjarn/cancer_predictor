@@ -1,0 +1,32 @@
+{
+  "overall": {
+    "n": 2312,
+    "pearson_r": 0.02474931912634927,
+    "p_value": 0.23421677340483682,
+    "spearman_rho": 0.06760793939919058
+  },
+  "controls": {
+    "n": 2088,
+    "pearson_r": 0.030562751089103835,
+    "p_value": 0.16270134097390984,
+    "spearman_rho": 0.0795766115308883
+  },
+  "cancer": {
+    "n": 224,
+    "pearson_r": -0.0475858917762849,
+    "p_value": 0.4785619358195756,
+    "spearman_rho": -0.12010512866071543
+  },
+  "difference": {
+    "delta_r": -0.07814864286538874,
+    "interpretation": "similar"
+  },
+  "comparison_with_mimic": {
+    "mimic_ldh_lactate_control": 0.94,
+    "mimic_ldh_lactate_cancer": 0.009,
+    "mimic_delta_r": -0.931,
+    "nhanes_glucose_ldh_control": 0.030562751089103835,
+    "nhanes_glucose_ldh_cancer": -0.0475858917762849,
+    "nhanes_delta_r": -0.07814864286538874
+  }
+}

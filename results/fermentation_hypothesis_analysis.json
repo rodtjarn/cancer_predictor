@@ -1,0 +1,45 @@
+{
+  "hypothesis": "Cancer ferments glucose\u2192lactate and glutamine\u2192succinate, predicting strong correlation",
+  "prediction": "High LDH + High Lactate + High Succinate in cancer, all correlated",
+  "observation": "LDH-Lactate decorrelation (r=0.94\u21920.009)",
+  "paradox": "Active fermentation should increase correlation, but we see decorrelation",
+  "possible_explanations": [
+    "1. LDH Isoform Switching",
+    "2. Lactate Export (MCT Transporters)",
+    "3. Tumor Heterogeneity",
+    "4. Lactate as Fuel (Reverse Warburg)",
+    "5. Alternative Lactate Sources",
+    "6. Temporal Dynamics",
+    "7. Succinate Competition"
+  ],
+  "metabolic_clusters": {
+    "cluster_0": {
+      "n": 197,
+      "glucose_mean": 107.8984771573604,
+      "ldh_mean": 170.56345177664974
+    },
+    "cluster_1": {
+      "n": 25,
+      "glucose_mean": 188.0,
+      "ldh_mean": 156.64
+    },
+    "cluster_2": {
+      "n": 2,
+      "glucose_mean": 199.5,
+      "ldh_mean": 203.0
+    }
+  },
+  "missing_data": [
+    "Lactate",
+    "Succinate",
+    "LDH isoforms",
+    "Glutamine"
+  ],
+  "recommendations": [
+    "Measure succinate levels",
+    "Measure LDH isoforms (LDHA/LDHB)",
+    "Isotope tracing studies",
+    "Single-cell metabolomics",
+    "Temporal dynamics studies"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Dataset Statistics": {
+    "Total Participants": 2312,
+    "Cancer Cases": 224,
+    "Controls": 2088,
+    "Cancer Prevalence": "9.69%",
+    "Mean Age (Cancer)": "66.6 years",
+    "Mean Age (Control)": "48.1 years"
+  },
+  "Model Performance": {
+    "Accuracy": "0.874",
+    "Sensitivity (Recall)": "0.763",
+    "Specificity": "0.886",
+    "Precision (PPV)": "0.417",
+    "NPV": "0.972",
+    "F1-Score": "0.539",
+    "Matthews Correlation": "0.503",
+    "ROC-AUC": "0.910"
+  },
+  "Confusion Matrix": {
+    "True Negatives": 1849,
+    "False Positives": 239,
+    "False Negatives": 53,
+    "True Positives": 171
+  },
+  "Biomarker Differences (Cancer vs Control)": {
+    "Insulin": "13.8 vs 13.7 \u00b5U/mL (p=0.714)",
+    "Glucose": "117.7 vs 112.7 mg/dL (p=1.419e-05)",
+    "LDH": "169.3 vs 157.2 U/L (p=2.959e-05)",
+    "CRP": "2.37 vs 1.83 mg/L (p=0.032)",
+    "HOMA-IR": "4.42 vs 4.16 (p=0.223)"
+  },
+  "Feature Importance Rankings": {
+    "1. AGE": "0.4541",
+    "2. LDH": "0.1259",
+    "3. CRP": "0.1145",
+    "4. INSULIN": "0.0981",
+    "5. GLUCOSE": "0.0960",
+    "6. HOMA_IR": "0.0954",
+    "7. GENDER": "0.0159"
+  }
+}
